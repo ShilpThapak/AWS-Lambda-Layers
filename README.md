@@ -1,4 +1,6 @@
 # AWS-Lambda-Layers
+Python Version - 3.8.11
+OS: Amazon Linux (https://hub.docker.com/r/amazon/aws-sam-cli-build-image-python3.8)
 Python 3.8 Layers
 1. requests
 2. pandas
